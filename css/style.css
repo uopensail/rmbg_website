@@ -500,3 +500,10 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+.store-img {
+    width: 100%;
+    height: auto; /* 保持图片宽高比 */
+    max-width: 100%;
+    display: block;
+}
